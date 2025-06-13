@@ -35,7 +35,9 @@ respaldo-gdrive-ubuntu/
 Instala estas dependencias en tu servidor Ubuntu:
 sudo apt update && sudo apt install -y rclone cron tar
 
+----------------------------------------------------
 ✅ ¿Qué permite hacer este proyecto?
+----------------------------------------------------
 
 - Automatizar respaldos de configuraciones o archivos importantes de tu servidor Ubuntu.
 - Comprimir y almacenar esos respaldos de forma eficiente.
