@@ -25,3 +25,21 @@ respaldo-gdrive-ubuntu/
 │   └── respaldo.sh   ← El script de respaldo
 ├── img/              ← Carpeta para subir tus capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
+
+```
+
+----------------------------------------------------
+🛠️ Dependencias
+----------------------------------------------------
+
+Instala estas dependencias en tu servidor Ubuntu:
+sudo apt update && sudo apt install -y rclone cron tar
+
+✅ ¿Qué permite hacer este proyecto?
+
+- Automatizar respaldos de configuraciones o archivos importantes de tu servidor Ubuntu.
+- Comprimir y almacenar esos respaldos de forma eficiente.
+- Subir los respaldos directamente a Google Drive usando rclone.
+- Programar la ejecución diaria o periódica del respaldo con cron.
+- Mantener tu Drive organizado eliminando respaldos antiguos automáticamente.
+- Usar tanto entornos locales (VirtualBox) como entornos en la nube (AWS EC2).
