@@ -20,7 +20,8 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 ![image](https://github.com/user-attachments/assets/ade92ccb-38bd-4abb-83e5-e11c32ce58ff)
 
 ![image](https://github.com/user-attachments/assets/8190080a-5af0-4be8-8a4c-bda933d1d818)
-3.1.- buaque la api de google drive y le deberia de aparecer el resultado de la segunda imagen
+
+3.1.- busque la api de google drive y le deberia de aparecer el resultado de la segunda imagen
 
 ![image](https://github.com/user-attachments/assets/50656073-777a-4413-a6ff-78ba38e5e16b)
 
