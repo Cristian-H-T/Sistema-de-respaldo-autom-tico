@@ -6,6 +6,7 @@ Este proyecto permite realizar respaldos automáticos de tu servidor Ubuntu (en 
 ----------------------------------------------------
 🌐 Requisitos previos
 ----------------------------------------------------
+
 -Cuenta de Google.
 -Cuenta en Google Cloud Console para crear credenciales OAuth 2.0.
 -Una instancia Ubuntu Server:
