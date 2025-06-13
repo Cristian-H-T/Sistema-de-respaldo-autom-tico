@@ -15,6 +15,26 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 
 ![image](https://github.com/user-attachments/assets/5460f713-ab17-4d69-8991-07d3839e6faf)
 
+3.- Ahora debe de ir a apis y servicios para habilitar las api
+
+![image](https://github.com/user-attachments/assets/ade92ccb-38bd-4abb-83e5-e11c32ce58ff)
+
+![image](https://github.com/user-attachments/assets/8190080a-5af0-4be8-8a4c-bda933d1d818)
+3.1.- buaque la api de google drive y le deberia de aparecer el resultado de la segunda imagen
+
+![image](https://github.com/user-attachments/assets/50656073-777a-4413-a6ff-78ba38e5e16b)
+
+![image](https://github.com/user-attachments/assets/5c670e03-3b2a-4765-9c70-c5fcb395036e)
+
+4.- una vez llegados a este punto ahora se crearan las dos credenciales necesarias para este proyecto
+
+4.1.- Vaya donde dice credenciales y cree una clave API (esa sera la primera credencial que usaremos)
+
+![image](https://github.com/user-attachments/assets/f2509692-887a-4f5c-946f-1ab5ec9e2457)
+
+
+
+
 
 
 
