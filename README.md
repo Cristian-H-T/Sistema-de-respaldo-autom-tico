@@ -20,7 +20,7 @@ Cuenta de Google.
 ```text
 respaldo-gdrive-ubuntu/
 ├── script de respaldo.sh   ← El script de respaldo
-├── img/              ← capturas de pantalla
+├── Documentacion              ← capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
 ├── documentacion Ubuntu.md  ← Paso a paso para configurar el ubuntu server
 ├── documentacion de credenciales para drive.md  ← Paso a paso de como conseguir las credenciales
@@ -36,7 +36,7 @@ Instala estas dependencias en tu servidor Ubuntu:
 - sudo apt install rclone -y
 
 Instala esta dependecia en tu pc local:
-- Ve al siguiente link y descarga el archivo: https://rclone.org/downloads/
+- Ve al siguiente link y descarga el archivo zip: https://rclone.org/downloads/
 
 ----------------------------------------------------
 ✅ ¿Qué permite hacer este proyecto?
