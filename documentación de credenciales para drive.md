@@ -35,7 +35,13 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 
 5.- Ahora crearemos la segunda credencial (OAuth 2.0).
 
-5.1.- Vaya a pantalla de consentimiento OAuth y pulse donde dice cliente para crear uno nuevo, le saldra un recuadro en donde le pide ingresar el tipo de aplicacion y aqui debera de colocar App de escritorio y en nombre ponga el que prefiera.
+5.1.- Si no tienes configurada la pantalla de consentimiento, te pedirá hacerlo:
+
+- Nombre de aplicación: el que usted prefiera
+- Usuario de prueba: escriba el correo a usar
+- Guarda la configuración
+
+5.2.- Vaya a pantalla de consentimiento OAuth y pulse donde dice cliente para crear uno nuevo, le saldra un recuadro en donde le pide ingresar el tipo de aplicacion y aqui debera de colocar App de escritorio y en nombre ponga el que prefiera.
 
 ![image](https://github.com/user-attachments/assets/adb11591-841c-48b7-b667-1a6856a3c0f1)
 
