@@ -35,6 +35,8 @@ Instala estas dependencias en tu servidor Ubuntu:
 - sudo apt update
 - sudo apt install rclone -y
 
+Instala esta dependecia en tu pc local:
+- Ve al siguiente link y descarga el archivo: https://rclone.org/downloads/
 
 ----------------------------------------------------
 ✅ ¿Qué permite hacer este proyecto?
