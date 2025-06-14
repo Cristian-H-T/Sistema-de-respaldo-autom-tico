@@ -19,12 +19,11 @@ Cuenta de Google.
 
 ```text
 respaldo-gdrive-ubuntu/
-├── README.md         ← Este archivo que acabamos de generar
 ├── script de respaldo.sh   ← El script de respaldo
-├── img/              ← Carpeta para subir tus capturas de pantalla
+├── img/              ← capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
-├── Documentacion Ubuntu
-├── 
+├── documentacion Ubuntu.txt  ← Paso a paso para configurar el ubuntu server
+├── documentacion de credenciales para drive.txt  ← Paso a paso de como conseguir las credenciales
 
 ```
 
