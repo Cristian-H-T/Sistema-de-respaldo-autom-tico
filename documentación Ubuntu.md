@@ -91,15 +91,8 @@ Una vez instalado el rclone en su pc debe de volver a la ultima imagen donde se 
 3.- ✅ ¿Qué pasará después? rclone lo descodificará automáticamente
 
 - Le preguntará: Configure this as a team drive? y colocara n
-- Luego mostrará el resumen de la configuración:
-
-'''
-[nombre puesto]
-type = drive
-token = { ... }
-'''
-
-- Y finalmente usted pondra y/n> y para guardar
+- Luego mostrará el resumen de la configuración.
+- Y finalmente usted pondra y/n> y para guardar.
 
 3.1.- Verifica que todo funciona:
 Ya puedes probar que rclone está conectado a tu Google Drive ejecutando:
@@ -110,8 +103,37 @@ o tambien:
 
 - rclone lsd gdrive:
 
+Y su ubuntu ya estaria conectado con su google drive
+
+4.- Ahora debe de crear correctamente el archivo respaldo.sh
+
+4.1.- En su ubuntu coloque el siguiente comando:
+
+- nano ~/respaldo.sh
+
+4.2.- Dentro de esa carpeta debera de pegar el script que se encuentra en este proyecto
+
+![image](https://github.com/user-attachments/assets/8b548182-89db-4221-abf7-a3200ba3cf5d)
 
 
+4.3.- Debe de darle permisos de ejecución con: 
 
+- chmod +x ~/respaldo.sh
 
+4.4.- y ya por ultimo para ejecutar este script de forma manual use:
 
+- sudo ~/respaldo.sh
+
+Y ya estaria funcionando sin problemas
+
+![image](https://github.com/user-attachments/assets/e65f2173-1eda-4ff5-85cd-b5169a4be71c)
+
+5.- Programar el respaldo automático con cron
+
+- Abre el editor de tareas programadas (como el crontab del usuario root): sudo crontab -e
+
+5.1.- Y por ultimo agrega una línea como esta al final del archivo para que el respaldo se ejecute todos los días a la hora que desee (en el ejemplo esta puesta a las 9 am)
+
+- 0 9 * * * /home/ubuntu/respaldo.sh >> /var/log/respaldo.log 2>&1
+
+![image](https://github.com/user-attachments/assets/a6a27076-ec12-493f-b1cd-9a9920779b25)
