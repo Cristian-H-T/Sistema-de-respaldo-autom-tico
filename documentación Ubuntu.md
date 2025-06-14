@@ -17,9 +17,10 @@
   
 2.1.- Luego del comando anterior siga estos pasos
 
+- n → Nuevo remoto
+
 ![image](https://github.com/user-attachments/assets/f96208ad-1158-42a0-8527-1264914da965)
 
-- n → Nuevo remoto
 - Nombre: (el que prefiera)
 
 ![image](https://github.com/user-attachments/assets/894e7ab0-8163-49a0-b291-a3967512d847)
