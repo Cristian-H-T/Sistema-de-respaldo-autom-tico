@@ -21,13 +21,13 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 
 ![image](https://github.com/user-attachments/assets/8190080a-5af0-4be8-8a4c-bda933d1d818)
 
-3.1.- busque la api de google drive y le deberia de aparecer el resultado de la segunda imagen
+3.1.- Busque la api de google drive y le deberia de aparecer el resultado de la segunda imagen
 
 ![image](https://github.com/user-attachments/assets/50656073-777a-4413-a6ff-78ba38e5e16b)
 
 ![image](https://github.com/user-attachments/assets/5c670e03-3b2a-4765-9c70-c5fcb395036e)
 
-4.- una vez llegados a este punto se crearan las dos credenciales necesarias para este proyecto
+4.- Una vez llegados a este punto se crearan las dos credenciales necesarias para este proyecto
 
 4.1.- Vaya donde dice credenciales y cree una clave API (esa sera la primera credencial que usaremos)
 
@@ -43,6 +43,10 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 
 ![image](https://github.com/user-attachments/assets/2a450056-e56b-413d-bcd4-a9dd81eb42d7)
 
+6.- Ahora nos adelantaremos un poco ya que aun estamos en google cloud
 
+6.1.- Encima del recuadro de clientes esta publico, una vez ahi nos iremos a usuarios de prueba y añadiremos uno luego de eso colocamos nuestro correo en donde estara el drive que seria el mismo que ingresamos en el google cloud
 
+![image](https://github.com/user-attachments/assets/db7fd674-5c8c-4c70-baa0-d82572db5753)
 
+![image](https://github.com/user-attachments/assets/a02af4b3-b798-48d4-b99f-b777c66cf0e8)
