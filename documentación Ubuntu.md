@@ -101,11 +101,11 @@ Una vez instalado el rclone en su pc debe de volver a la ultima imagen donde se 
 
 Ya puedes probar que rclone está conectado a tu Google Drive ejecutando:
 
-- rclone ls gdrive:
+- rclone ls (el nombre que le puso al configurar rclone)
 
 o tambien:
 
-- rclone lsd gdrive:
+- rclone lsd el (nombre que le puso al configurar rclone)
 
 Y su ubuntu ya estaria conectado con su google drive
 
