@@ -1,4 +1,5 @@
-Aqui se vera el paso a paso para configurar su ubuntu server
+# Aqui se vera el paso a paso para configurar su ubuntu server
+
 1.- Primero en su maquina virtual de ubuntu server debe de colocar los comandos puestos en las dependencias aunque se las pondremos aqui de todas formas
 
 - sudo apt update
@@ -67,6 +68,7 @@ Aqui se vera el paso a paso para configurar su ubuntu server
 - Entra a la carpeta extraída: cd C:\rclone
 
 2.4.- Una opcion que funciona si es que no le abre la carpeta extraida es agregar rclone al PATH:
+
 Para usarlo desde cualquier carpeta:
 
 - Presiona Win + S, busca “Editar las variables de entorno del sistema”
@@ -87,7 +89,7 @@ Una vez instalado el rclone en su pc debe de volver a la ultima imagen donde se 
 
 - Ya colocado su correo donde estara el drive saldra un mensaje de: Success! All done. Please go back to rclone
 - Vuelva al cmd donde ya le dara el codigo a colocar en su Ubuntu server
-- 
+
 3.- ✅ ¿Qué pasará después? rclone lo descodificará automáticamente
 
 - Le preguntará: Configure this as a team drive? y colocara n
@@ -95,6 +97,7 @@ Una vez instalado el rclone en su pc debe de volver a la ultima imagen donde se 
 - Y finalmente usted pondra y/n> y para guardar.
 
 3.1.- Verifica que todo funciona:
+
 Ya puedes probar que rclone está conectado a tu Google Drive ejecutando:
 
 - rclone ls gdrive:
@@ -114,7 +117,6 @@ Y su ubuntu ya estaria conectado con su google drive
 4.2.- Dentro de esa carpeta debera de pegar el script que se encuentra en este proyecto
 
 ![image](https://github.com/user-attachments/assets/8b548182-89db-4221-abf7-a3200ba3cf5d)
-
 
 4.3.- Debe de darle permisos de ejecución con: 
 
