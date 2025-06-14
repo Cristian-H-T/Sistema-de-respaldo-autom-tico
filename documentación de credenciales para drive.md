@@ -27,14 +27,21 @@ En este apartado se vera como conseguir las credenciales necesarioas para conect
 
 ![image](https://github.com/user-attachments/assets/5c670e03-3b2a-4765-9c70-c5fcb395036e)
 
-4.- una vez llegados a este punto ahora se crearan las dos credenciales necesarias para este proyecto
+4.- una vez llegados a este punto se crearan las dos credenciales necesarias para este proyecto
 
 4.1.- Vaya donde dice credenciales y cree una clave API (esa sera la primera credencial que usaremos)
 
 ![image](https://github.com/user-attachments/assets/f2509692-887a-4f5c-946f-1ab5ec9e2457)
 
+5.- Ahora crearemos la segunda credencial (OAuth 2.0)
 
+5.1.- Vaya a pantalla de consentimiento OAuth y pulse donde dice cliente para crear uno nuevo, le saldra un recuadro en donde le pide ingresar el tipo de aplicacion y aqui debera de colocar App de escritorio y en nombre ponga el que prefiera
 
+![image](https://github.com/user-attachments/assets/adb11591-841c-48b7-b667-1a6856a3c0f1)
+
+![image](https://github.com/user-attachments/assets/076e3b17-79f8-4504-89bc-41f983dd82b4)
+
+![image](https://github.com/user-attachments/assets/2a450056-e56b-413d-bcd4-a9dd81eb42d7)
 
 
 
