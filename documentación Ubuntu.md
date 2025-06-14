@@ -93,9 +93,11 @@ Una vez instalado el rclone en su pc debe de volver a la ultima imagen donde se 
 - Le preguntará: Configure this as a team drive? y colocara n
 - Luego mostrará el resumen de la configuración:
 
+'''
 [nombre puesto]
 type = drive
 token = { ... }
+'''
 
 - Y finalmente usted pondra y/n> y para guardar
 
