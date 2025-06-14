@@ -140,3 +140,7 @@ Y ya estaria funcionando sin problemas
 - 0 9 * * * /home/ubuntu/respaldo.sh >> /var/log/respaldo.log 2>&1
 
 ![image](https://github.com/user-attachments/assets/a6a27076-ec12-493f-b1cd-9a9920779b25)
+
+Y aqui un ejemplo de como el script ejecuta una carpeta en donde se guardaran los respaldos que se hagan
+
+![image](https://github.com/user-attachments/assets/6f98a3ad-cb1b-45ce-aebb-171463eb07f6)
