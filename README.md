@@ -32,7 +32,9 @@ respaldo-gdrive-ubuntu/
 ----------------------------------------------------
 
 Instala estas dependencias en tu servidor Ubuntu:
-sudo apt update && sudo apt install -y rclone cron tar
+- sudo apt update
+- sudo apt install rclone -y
+
 
 ----------------------------------------------------
 ✅ ¿Qué permite hacer este proyecto?
