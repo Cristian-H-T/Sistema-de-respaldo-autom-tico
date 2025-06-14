@@ -22,8 +22,8 @@ respaldo-gdrive-ubuntu/
 ├── script de respaldo.sh   ← El script de respaldo
 ├── img/              ← capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
-├── documentacion Ubuntu.txt  ← Paso a paso para configurar el ubuntu server
-├── documentacion de credenciales para drive.txt  ← Paso a paso de como conseguir las credenciales
+├── documentacion Ubuntu.md  ← Paso a paso para configurar el ubuntu server
+├── documentacion de credenciales para drive.md  ← Paso a paso de como conseguir las credenciales
 
 ```
 
