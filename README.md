@@ -20,10 +20,11 @@ Cuenta de Google.
 ```text
 respaldo-gdrive-ubuntu/
 ├── README.md         ← Este archivo que acabamos de generar
-├── script/
-│   └── respaldo.sh   ← El script de respaldo
+├── script de respaldo.sh   ← El script de respaldo
 ├── img/              ← Carpeta para subir tus capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
+├── 
+├── 
 
 ```
 
