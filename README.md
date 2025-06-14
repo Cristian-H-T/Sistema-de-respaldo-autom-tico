@@ -23,7 +23,7 @@ respaldo-gdrive-ubuntu/
 ├── script de respaldo.sh   ← El script de respaldo
 ├── img/              ← Carpeta para subir tus capturas de pantalla
 ├── requirements.txt  ← Lista de dependencias
-├── 
+├── Documentacion Ubuntu
 ├── 
 
 ```
